@@ -1,0 +1,54 @@
+baseurl = "https://github.com/jsevo/jsblog"
+languageCode = "en-us"
+title = "Steam - a minimal theme for Hugo"
+theme = "hugo-steam-theme"
+disqusShortname = ""
+# Enable Google Analytics be inserting your tracking code
+googleAnalytics = ""
+# Number of posts per page
+paginate = 10
+publishDir = "docs"
+
+[params]
+	title = "JSblog"
+	subtitle = "._."
+	copyright = "Copyright &#xA9; 2017 Jonas Schl&uuml;ter. All Rights Reserved."
+  # CopyrightHTML: "Copyright &#xA9; 2013 Jonas Schluter. All Rights Reserved."
+
+	# You can choose between green, orange, red and blue.
+	themecolor = "green"
+
+	# Link custom assets relative to /static
+	favicon   = []#"favicon.ico"
+	customCSS = []
+	customJS  = []
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "JSblog"
+	bio = "machine learning - microbiome - evolution - ecology - programming"
+	description = "I am a scientist interested in evolution, machine-learning, mathematical modeling, and business and technology."
+	
+	# Link your social networks (optional)
+	location = ""
+	twitter = "jonasschluter"
+	linkedin = "jonasschluter"
+  scholar = "jonas schluter"
+	googleplus = ""
+	facebook = ""
+	instagram = ""
+	github = "jsevo"
+	gitlab = ""
+	bitbucket = ""
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
+
+ # +++
+# date  = "2015-08-22"
+# title = "About me"
+# menu  = "main"
+# +++
