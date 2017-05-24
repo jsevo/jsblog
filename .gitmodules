@@ -1,3 +1,0 @@
-[submodule "libfoo"]
-	path = themes/hugo-steam-theme
-	url = https://github.com/digitalcraftsman/hugo-steam-theme.git
