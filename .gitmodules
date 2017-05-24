@@ -1,3 +1,6 @@
 [submodule "hugo-steam-theme"]
 	path = themes/hugo-steam-theme
 	url = https://github.com/digitalcraftsman/hugo-steam-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:jsevo/jsevo.github.io.git
