@@ -1,4 +1,4 @@
-baseurl = "https://github.com/jsevo/jsblog"
+baseurl = "https://github.com/jsevo/jsblog/"
 languageCode = "en-us"
 title = "Steam - a minimal theme for Hugo"
 theme = "hugo-steam-theme"
