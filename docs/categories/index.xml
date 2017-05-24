@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on JSblog</title>
+    <link>https://github.com/jsevo/jsblog/categories/</link>
+    <description>Recent content in Categories on JSblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#xA9; 2017 Jonas Schl&amp;uuml;ter. All Rights Reserved.</copyright>
+    
+	<atom:link href="https://github.com/jsevo/jsblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commentary</title>
+      <link>https://github.com/jsevo/jsblog/categories/commentary/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jsevo/jsblog/categories/commentary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum</title>
+      <link>https://github.com/jsevo/jsblog/categories/ethereum/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jsevo/jsblog/categories/ethereum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion</title>
+      <link>https://github.com/jsevo/jsblog/categories/opinion/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jsevo/jsblog/categories/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Korea</title>
+      <link>https://github.com/jsevo/jsblog/categories/south-korea/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/jsevo/jsblog/categories/south-korea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
